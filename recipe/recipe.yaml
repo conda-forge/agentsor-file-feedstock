@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.3"
+  version: "0.2.4"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agentsor-file/agentsor_file-${{ version }}.tar.gz
-  sha256: e2e2337f8ec701a6582de76590eb5b337df7f97e25f2b1eb55dc000393496151
+  sha256: 5c53504af475fb1ebe293eaabcc9f03b3df7430dfcfcab9fce5f94edc56ca42b
 
 build:
   number: 0
